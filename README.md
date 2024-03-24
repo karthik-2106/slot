@@ -121,8 +121,6 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![Screenshot 2024-03-24 072356](https://github.com/karthik-2106/slot/assets/150319557/47a79892-d070-42a5-8bdb-36af4751f96e)
-
 ![image](https://github.com/karthik-2106/slot/assets/150319557/de70d918-d117-4343-9e5f-5aaccb2ed724)
 
 ## RESULT
